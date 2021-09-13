@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-image: url("../img/pattern.png");
+    background-color: rgb(65, 140, 225);
+    background-position-x: right;
+}
+
+header img {
+    margin-top: 80px;
+}
+
+main img {
+    margin-top: 20px;
+}
+
+#author {
+    color: rgb(18, 160, 243);
+}
+
+.mainphotos {
+    margin-bottom: 20px;
+}
+
+h4, h3, p {
+    display: inline-block;
+}
+
+ul {
+    margin: 20px 0;
+}
+
+table {
+    margin: 20px 0;
+    border-spacing: 0
+}
+
+thead {
+    color: white;
+    background-color: rgb(91, 195, 255);
+}
+
+.trcolor {
+    background-color: rgba(22, 222, 236, 0.589);
+}
+
+td {
+    width: 30%;
+}
+
+main, footer {
+    margin: 10px;
+}
+
+footer h3 {
+    margin: 20px 0;
+}
+
+footer h2 {
+    background-repeat: no-repeat;
+    width: 312px;
+    height: 208px;
+    color: white;
+    padding: 10px;
+}
+
+#also1 {
+    background-image: url("../img/graph.jpg");
+}
+
+#also2 {
+    background-image: url("../img/monitor.jpg");
+}
+
+.grey {
+    color: grey;
+}
+
+.highlight {
+    background-color: yellow;
+}
