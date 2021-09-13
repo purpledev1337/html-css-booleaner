@@ -12,16 +12,29 @@ header img {
     margin-top: 80px;
 }
 
+main img {
+    margin-top: 20px;
+}
+
 #author {
     color: rgb(18, 160, 243);
+}
+
+.mainphotos {
+    margin-bottom: 20px;
 }
 
 h4, h3, p {
     display: inline-block;
 }
 
+ul {
+    margin: 20px 0;
+}
+
 table {
     margin: 20px 0;
+    border-spacing: 0
 }
 
 thead {
@@ -30,11 +43,19 @@ thead {
 }
 
 .trcolor {
-    background-color: rgb(22, 222, 236);
+    background-color: rgba(22, 222, 236, 0.589);
+}
+
+td {
+    width: 30%;
 }
 
 main, footer {
     margin: 10px;
+}
+
+footer h3 {
+    margin: 20px 0;
 }
 
 footer h2 {
