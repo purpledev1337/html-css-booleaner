@@ -12,8 +12,29 @@ header img {
     margin-top: 80px;
 }
 
-h4, h3 {
+#author {
+    color: rgb(18, 160, 243);
+}
+
+h4, h3, p {
     display: inline-block;
+}
+
+table {
+    margin: 20px 0;
+}
+
+thead {
+    color: white;
+    background-color: rgb(91, 195, 255);
+}
+
+.trcolor {
+    background-color: rgb(22, 222, 236);
+}
+
+main, footer {
+    margin: 10px;
 }
 
 footer h2 {
@@ -21,7 +42,6 @@ footer h2 {
     width: 312px;
     height: 208px;
     color: white;
-    margin: 10px;
     padding: 10px;
 }
 
@@ -35,4 +55,8 @@ footer h2 {
 
 .grey {
     color: grey;
+}
+
+.highlight {
+    background-color: yellow;
 }
