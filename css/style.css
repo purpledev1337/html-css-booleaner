@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+main {
+    margin: 10px;
+}
+
 header {
     background-image: url("../img/pattern.png");
     background-color: royalblue;
@@ -15,4 +19,13 @@ header img {
 
 h4, h3 {
     display: inline-block;
+}
+
+footer div {
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    width: 312px;
+    height: 208px;
+    color: white;
+    margin: 10px;
 }
