@@ -12,3 +12,7 @@ header {
 header img {
     margin-top: 50px;
 }
+
+h4, h3 {
+    display: inline-block;
+}
