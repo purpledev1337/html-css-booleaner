@@ -2,30 +2,37 @@
     margin: 0;
 }
 
-main {
-    margin: 10px;
-}
-
 header {
     background-image: url("../img/pattern.png");
     background-color: royalblue;
-    height: 180px;
     background-position-x: right;
 }
 
 header img {
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 h4, h3 {
     display: inline-block;
 }
 
-footer div {
-    background-image: url("../img/graph.jpg");
+footer h2 {
     background-repeat: no-repeat;
     width: 312px;
     height: 208px;
     color: white;
     margin: 10px;
+    padding: 10px;
+}
+
+#also1 {
+    background-image: url("../img/graph.jpg");
+}
+
+#also2 {
+    background-image: url("../img/monitor.jpg");
+}
+
+.grey {
+    color: grey;
 }
